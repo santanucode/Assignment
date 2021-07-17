@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.dropDown{
+  display: flex;
+  flex-direction: row;
+}
+.dropControl{
+  align-items: center;
+  display: none;
+}
+.label{
+    font-size: 20px;
+    font-weight: 500;
+    color:"Blue";
+    
+}
